@@ -8,7 +8,7 @@ div {text-align: center;}
 </head>
 <body>
 
-<h1 style="color:blue;"> Hello, Welcome to Mobann Tech DevOps Bootcamp! </h1>
+<h1 style="color:blue;"> Hello, Welcome to Mobann Technologies DevOps Bootcamp! </h1>
 <h1 style="color:blue;"> We are still learning DevOps1 </h1>
 </body>
 </html>
